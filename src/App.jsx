@@ -52,7 +52,7 @@ import Page15 from "./Pages-dha/Page15.jsx";
 import Page16 from "./Pages-dha/Page16.jsx";
 import Page17 from "./Pages-dha/SirviceprovidersPage.jsx";
 import Page18 from "./Pages-dha/SirvicesPage.jsx";
-import PageU35 from "./Pages-dha/PageU35.jsx";
+// import PageU35 from "./Pages-dha/PageU35.jsx";
 
 /* ---------------- Abhishek Pages ---------------- */
 import PageU24 from "./Pages/PageU24.jsx";
@@ -150,7 +150,7 @@ function App() {
         <Route path="/page16" element={<Page16 />} />
         <Route path="/providers" element={<Page17 />} />
         <Route path="/services" element={<Page18 />} />
-        <Route path="/pageu35" element={<PageU35 />} />
+        {/* <Route path="/pageu35" element={<PageU35 />} /> */}
 
         {/* Nested */}
         <Route path="/pageu41" element={<PageU41 />}>
