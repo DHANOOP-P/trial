@@ -7,7 +7,7 @@ import Comp13 from '../Components-dha/Comp13'
 import Comp14 from '../Components-dha/Comp14'
 import ToolBar21 from '../Components-dha/ToolBar21'
 import PageU37 from './PageU37'
-import PageU35 from './pageU35'
+import PageU35 from './PageU35'
 import PopularSirviceCard from '../Components-dha/PopularSirviceCard'
 
 const page11 = () => {
