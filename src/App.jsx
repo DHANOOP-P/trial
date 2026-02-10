@@ -31,15 +31,15 @@ import Diva from "./components/Diva";
 import Comp6 from "./components/seventh";
 
 // New Page Imports
-import Page1 from "./pages/Page1";
+import Page1 from "./Pages/Page1";
 import Page2 from "./pages/Page2";
-import Page3 from "./pages/Page3";
-import Page4 from "./pages/Page4";
-import Page5 from "./pages/Page5";
-import Page6 from "./pages/Page6";
-import Page7 from "./pages/Page7";
-import Page8 from "./pages/Page8";
-import Sucess from "./pages/Sucess";
+import Page3 from "./Pages/Page3";
+import Page4 from "./Pages/Page4";
+import Page5 from "./Pages/Page5";
+import Page6 from "./Pages/Page6";
+import Page7 from "./Pages/Page7";
+import Page8 from "./Pages/Page8";
+import Sucess from "./Pages/Sucess";
 
 // New "Pages-dha" Imports
 import Page11 from "./Pages-dha/Page11";
@@ -52,18 +52,18 @@ import Page17 from "./Pages-dha/SirviceprovidersPage";
 import Page18 from "./Pages-dha/SirvicesPage";
 
 // New Pages by Abhishek
-import PageU24 from './pages/PageU24.jsx';
-import PageU25 from './pages/PageU25.jsx';
-import PageU26 from './pages/PageU26.jsx';
-import PageU27 from './pages/PageU27.jsx';
-import PageU28 from './pages/PageU28.jsx';
-import PageU29 from './pages/PageU29.jsx';
-import PageU30 from './pages/PageU30.jsx';
-import PageU31 from './pages/PageU31.jsx';
-import PageMU1 from './pages/PageMU1.jsx';
-import PageU32 from './pages/PageU32.jsx';
-import PageU33 from './pages/PageU33.jsx';
-import PageU37 from './pages/PageU37.jsx';
+import PageU24 from './Pages/PageU24.jsx';
+import PageU25 from './Pages/PageU25.jsx';
+import PageU26 from './Pages/PageU26.jsx';
+import PageU27 from './Pages/PageU27.jsx';
+import PageU28 from './Pages/PageU28.jsx';
+import PageU29 from './Pages/PageU29.jsx';
+import PageU30 from './Pages/PageU30.jsx';
+import PageU31 from './Pages/PageU31.jsx';
+import PageMU1 from './Pages/PageMU1.jsx';
+import PageU32 from './Pages/PageU32.jsx';
+import PageU33 from './Pages/PageU33.jsx';
+import PageU37 from './Pages/PageU37.jsx';
 import PageM14 from './Pages/PageM14.jsx'
 import PageU36 from './Pages/PageU36.jsx';
 import PageU40 from './Pages/PageU40.jsx';
