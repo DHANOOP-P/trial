@@ -31,14 +31,15 @@ import Diva from "./components/Diva";
 import Comp6 from "./components/seventh";
 
 // New Page Imports
-import Page1 from "./Pages/Page1";
-import Page2 from "./pages/Page2";
-import Page3 from "./Pages/Page3";
-import Page4 from "./Pages/Page4";
-import Page5 from "./Pages/Page5";
-import Page6 from "./Pages/Page6";
-import Page7 from "./Pages/Page7";
-import Page8 from "./Pages/Page8";
+import Page1 from "./Pages/Page1.jsx";
+import Page2 from "./Pages/Page2.jsx";
+import Page3 from "./Pages/Page3.jsx";
+import Page4 from "./Pages/Page4.jsx";
+import Page5 from "./Pages/Page5.jsx";
+import Page6 from "./Pages/Page6.jsx";
+import Page7 from "./Pages/Page7.jsx";
+import Page8 from "./Pages/Page8.jsx";
+
 import Sucess from "./Pages/Sucess";
 
 // New "Pages-dha" Imports
