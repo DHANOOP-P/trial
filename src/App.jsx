@@ -44,14 +44,14 @@ import Page8 from "./Pages/Page8.jsx";
 import Sucess from "./Pages/Sucess.jsx";
 
 /* ---------------- Pages-dha ---------------- */
-import Page11 from "./Pages-dha/Page11.jsx";
-import Page12 from "./Pages-dha/Page12.jsx";
-import Page13 from "./Pages-dha/Page13.jsx";
-import Page14 from "./Pages-dha/Page14.jsx";
-import Page15 from "./Pages-dha/Page15.jsx";
-import Page16 from "./Pages-dha/Page16.jsx";
-import Page17 from "./Pages-dha/SirviceprovidersPage.jsx";
-import Page18 from "./Pages-dha/SirvicesPage.jsx";
+import Page11 from "./Pagesdha/Page11.jsx";
+import Page12 from "./Pagesdha/Page12.jsx";
+import Page13 from "./Pagesdha/Page13.jsx";
+import Page14 from "./Pagesdha/Page14.jsx";
+import Page15 from "./Pagesdha/Page15.jsx";
+import Page16 from "./Pagesdha/Page16.jsx";
+import Page17 from "./Pagesdha/SirviceprovidersPage.jsx";
+import Page18 from "./Pagesdha/SirvicesPage.jsx";
 // import PageU35 from "./Pages-dha/PageU35.jsx";
 
 /* ---------------- Abhishek Pages ---------------- */
@@ -85,14 +85,14 @@ import History from "./Pages/History.jsx";
 import Privacy from "./Pages/Privacy.jsx";
 
 /* ---------------- Thanzeeh Pages ---------------- */
-import Page_35 from "./Pages-thanzeeh/Page_35.jsx";
-import Page_37 from "./Pages-thanzeeh/Page_37.jsx";
-import Page_41 from "./Pages-thanzeeh/Page_41.jsx";
-import Page_43 from "./Pages-thanzeeh/Page_43.jsx";
-import Page_44 from "./Pages-thanzeeh/Page_44.jsx";
-import Page_45 from "./Pages-thanzeeh/Page_45.jsx";
-import Page_46 from "./Pages-thanzeeh/Page_46.jsx";
-import Page_48 from "./Pages-thanzeeh/Page_48.jsx";
+import Page_35 from "./Pagesthanzeeh/Page_35.jsx";
+import Page_37 from "./Pagesthanzeeh/Page_37.jsx";
+import Page_41 from "./Pagesthanzeeh/Page_41.jsx";
+import Page_43 from "./Pagesthanzeeh/Page_43.jsx";
+import Page_44 from "./Pagesthanzeeh/Page_44.jsx";
+import Page_45 from "./Pagesthanzeeh/Page_45.jsx";
+import Page_46 from "./Pagesthanzeeh/Page_46.jsx";
+import Page_48 from "./Pagesthanzeeh/Page_48.jsx";
 
 function App() {
   return (
