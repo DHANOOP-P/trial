@@ -1,7 +1,7 @@
 import React from 'react'
-import Component4 from '../Components-dha/Component4'
-import ToolBar21 from '../Components-dha/ToolBar21'
-import UserProfile from '../Components-dha/UserProfile'
+import Component4 from '../Componentsdha/Component4'
+import ToolBar21 from '../Componentsdha/ToolBar21'
+import UserProfile from '../Componentsdha/UserProfile'
 
 
 export default function PageU35() {
