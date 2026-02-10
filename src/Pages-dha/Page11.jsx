@@ -7,7 +7,7 @@ import Comp13 from '../Components-dha/Comp13'
 import Comp14 from '../Components-dha/Comp14'
 import ToolBar21 from '../Components-dha/ToolBar21'
 import PageU37 from './PageU37'
-import PageU35 from './PageU35'
+// import PageU35 from './PageU35'
 import PopularSirviceCard from '../Components-dha/PopularSirviceCard'
 
 const page11 = () => {
@@ -44,7 +44,7 @@ const page11 = () => {
 
     {/* Popup Content */}
     <div className="relative z-10 bg-white rounded-xl w-full md:w-[30%] h-full md:h-auto">
-      <PageU35 onClose={() => setpopup1(false)} />
+      {/* <PageU35 onClose={() => setpopup1(false)} /> */}
     </div>
   </div>
 )}
